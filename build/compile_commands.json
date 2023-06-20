@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/dth/local_planner/build",
+  "command": "/usr/bin/g++   -I/home/dth/local_planner/{PYTHON_INCLUDE_DIRS} -I/home/dth/local_planner/include -I/home/dth/local_planner/include/dataStructure -I/home/dth/local_planner/include/planner -I/home/dth/local_planner/include/simulator -I/usr/local/include/osqp -I/usr/include/eigen3 -isystem /usr/include/python3.8 -isystem /home/dth/.local/lib/python3.8/site-packages/numpy/core/include  -g   -o CMakeFiles/local_mpc_planner.dir/src/main.cpp.o -c /home/dth/local_planner/src/main.cpp",
+  "file": "/home/dth/local_planner/src/main.cpp"
+},
+{
+  "directory": "/home/dth/local_planner/build",
+  "command": "/usr/bin/g++   -I/home/dth/local_planner/{PYTHON_INCLUDE_DIRS} -I/home/dth/local_planner/include -I/home/dth/local_planner/include/dataStructure -I/home/dth/local_planner/include/planner -I/home/dth/local_planner/include/simulator -I/usr/local/include/osqp -I/usr/include/eigen3 -isystem /usr/include/python3.8 -isystem /home/dth/.local/lib/python3.8/site-packages/numpy/core/include  -g   -o CMakeFiles/local_mpc_planner.dir/src/planner/mpcPlanner.cpp.o -c /home/dth/local_planner/src/planner/mpcPlanner.cpp",
+  "file": "/home/dth/local_planner/src/planner/mpcPlanner.cpp"
+},
+{
+  "directory": "/home/dth/local_planner/build",
+  "command": "/usr/bin/g++   -I/home/dth/local_planner/{PYTHON_INCLUDE_DIRS} -I/home/dth/local_planner/include -I/home/dth/local_planner/include/dataStructure -I/home/dth/local_planner/include/planner -I/home/dth/local_planner/include/simulator -I/usr/local/include/osqp -I/usr/include/eigen3 -isystem /usr/include/python3.8 -isystem /home/dth/.local/lib/python3.8/site-packages/numpy/core/include  -g   -o CMakeFiles/local_mpc_planner.dir/src/planner/testPlanner.cpp.o -c /home/dth/local_planner/src/planner/testPlanner.cpp",
+  "file": "/home/dth/local_planner/src/planner/testPlanner.cpp"
+},
+{
+  "directory": "/home/dth/local_planner/build",
+  "command": "/usr/bin/g++   -I/home/dth/local_planner/{PYTHON_INCLUDE_DIRS} -I/home/dth/local_planner/include -I/home/dth/local_planner/include/dataStructure -I/home/dth/local_planner/include/planner -I/home/dth/local_planner/include/simulator -I/usr/local/include/osqp -I/usr/include/eigen3 -isystem /usr/include/python3.8 -isystem /home/dth/.local/lib/python3.8/site-packages/numpy/core/include  -g   -o CMakeFiles/local_mpc_planner.dir/src/simulator/randomSimulatorFactory.cpp.o -c /home/dth/local_planner/src/simulator/randomSimulatorFactory.cpp",
+  "file": "/home/dth/local_planner/src/simulator/randomSimulatorFactory.cpp"
+}
+]
